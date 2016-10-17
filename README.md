@@ -40,11 +40,11 @@ This would result in the following transformation:
 
 ## Instructions
 
-Clone this repo! (Or click "Download ZIP" on the right).
+Fork and clone this repo!
 
 There are three problem sets, organized by difficulty: [day_1](/challenges/day1.md), [day_2](/challenges/day2.md), [day_3](/challenges/day3.js).
 
-Solutions may be found in the [/solutions](/challenges/solutions) folder. NO PEEKING! Try your darndest before you give up. The name of the solution file will match the title of the problem. For example, the solution to **turn_3rd_cell_blue** can be found at [challenges/solutions/turn_3rd_cell_blue.js](challenges/solutions/turn_3rd_cell_blue.js).
+Solutions will be given at the end of the work session. Try your darndest to get to a solution before then. At the least, we are expecting to see an attempt at all challenges.
 
 ### Using kyrel.js
 
