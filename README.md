@@ -44,7 +44,7 @@ Fork and clone this repo!
 
 There are three problem sets, organized by difficulty: [day_1](/challenges/day1.md), [day_2](/challenges/day2.md), [day_3](/challenges/day3.js).
 
-Solutions will be given at the end of the work session. Try your darndest to get to a solution before then. At the least, we are expecting to see an attempt at all challenges.
+Solutions will be given at the end of the work session. Note that this means the `solution` links on the challenges sheets will be dead links at the beginning. Try your darndest to get to a solution before then. At the least, we are expecting to see an attempt at all challenges.
 
 ### Using kyrel.js
 
