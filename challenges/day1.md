@@ -3,7 +3,7 @@
 1. turn_3rd_cell_blue - [solution](/challenges/solutions/turn_3rd_cell_blue.js)
 
   * start:  ['.', '.', '.', '.', '.']
-  * finish: ['.', .', 'b', '.', '.']
+  * finish: ['.', '.', 'b', '.', '.']
 
 2. erase_3rd_cell - [solution](/challenges/solutions/erase_3rd_cell.js)
 
