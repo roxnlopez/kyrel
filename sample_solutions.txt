@@ -1,25 +1,61 @@
 THIS IS A SAMPLE SOLUTION, PLEASE USE THIS FORMAT FOR YOUR SUBMISSIONS.
 
-1. Write a program which draws a green circle in the top-right corner of the grid.
+1. turn_3rd_cell_blue
 
-  function main() {
+  moveRight();
+  moveRight();
+  useBlue();
+  draw();
+
+2. erase_3rd_cell
+  
+  moveRight();
+  moveRight();
+  erase();
+
+3. every_other_erase 
+
+  moveRight();
+  erase();
+  moveRight();
+  moveRight();
+  erase();
+
+4. every_other_blue
+
+  useBlue();
+  draw();
+  moveRight();
+  moveRight();
+  useBlue();
+  draw();
+  moveRight();
+  moveRight();
+  useBlue();
+  draw();
+
+5. move_start_to_finish
+
+B-  erase();
+    moveRight();
+    moveRight();
+    moveRight();
+    moveRight();
+    moveRight();
+    useBlue();
+    draw();
+
+G - erase();
+    moveRight();
     moveRight();
     moveRight();
     moveRight();
     moveRight();
     useGreen();
     draw();
-  }
 
-2. Write a program which draws X blue circles across the top row, where X is a variable you declare.
-
-  var x;
-
-  function main() {
-    x = 3;
-    useBlue();
-    for(var i = 0; i < x; i++) {
-      draw();
-      moveRight();
-    }
-  }
+E -  moveRight();
+    moveRight();
+    moveRight();
+    moveRight();
+    moveRight();
